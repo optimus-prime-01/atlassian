@@ -3,6 +3,23 @@
 This project provides a frontend dashboard for the Atlan Platform Internship Challenge 2025, focused on API observability.
 
 ## Project Structure
+```
+backend/
+  ├── config/
+  │   └── db.js
+  ├── controllers/
+  │   └── metricsController.js
+  ├── middleware/
+  │   └── logger.js
+  ├── models/
+  │   └── Metric.js
+  ├── routes/
+  │   └── api.js
+  ├── utils/
+  │   └── metricsCollector.js
+  ├── .env
+  └── server.js
+```
 
 ```
 frontend/
