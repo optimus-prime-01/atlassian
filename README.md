@@ -45,7 +45,8 @@ The frontend will run on http://localhost:3000 and will attempt to connect to th
 - Endpoint-specific filtering
 - Time range selection
 
-![image](https://github.com/user-attachments/assets/34a462a2-0216-4078-bea6-58e8aae662c3
+![Editor _ Mermaid Chart-2025-03-31-182434](https://github.com/user-attachments/assets/045e990b-1720-4697-9588-2433ceb090a2)
+
 
 ![image](https://github.com/user-attachments/assets/45a97fb6-cf60-4029-8f15-5563302b2e9c)
 
